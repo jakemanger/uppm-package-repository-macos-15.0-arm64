@@ -279,7 +279,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, yazi, ycm, youtubedr, yq, yyjson, zellij, zeta, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsv, zsync]
+        pkg: [xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, yazi, ycm, youtubedr, yq, yyjson, zellij, zeta, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsv, zsync, imagemagick]
 
     runs-on: macos-15
 
